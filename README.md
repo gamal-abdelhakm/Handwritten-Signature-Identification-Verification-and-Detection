@@ -3,4 +3,4 @@ Train a classification model to determine to whom a handwritten signature belong
 Train another model to determine whether the signature is real or forged.           
 Train Signature Detection model using YOLO.                 
 Notebooks show results from training on my personal computer.           
-Siamese and YOLO models are saved from the training results on Colab.
+Siamese and YOLO models were saved from the training results on Colab.
